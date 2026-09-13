@@ -1,0 +1,8 @@
+# Robots.txt for Abdullah Butt Executive Portfolio
+# Deployable to GitHub Pages
+
+User-agent: *
+Allow: /
+
+# Direct Sitemap Pointer
+Sitemap: https://abdullahbintayyab.github.io/abdullahbutt/sitemap.xml
